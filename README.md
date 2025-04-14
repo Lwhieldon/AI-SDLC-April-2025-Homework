@@ -32,8 +32,8 @@ git clone https://github.com/Lwhieldon/AI-SDLC-April-2025-Homework.git
 cd AI-SDLC-April-2025-Homework
 
 # (Optional) Create a virtual environment
-python -m venv venv
-source venv/bin/activate  # Windows: venv\Scripts\activate
+python -m venv .venv
+source .venv/bin/activate  # VS Code on Windows: .venv\Scripts\Activate.ps1
 
 # Install Python dependencies
 pip install -r requirements.txt
