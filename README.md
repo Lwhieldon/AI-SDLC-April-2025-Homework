@@ -41,7 +41,7 @@ pip install -r requirements.txt
 
 ## 🧪 Usage
 
-Each subfolder under `workshops/` represents a hands-on AI task mapped to an SDLC phase. These include:
+Each homework assignment is located in `workshops/homework/apps`, representing a hands-on AI task mapped to an SDLC phase. These include (and Lee will update as the course progresses):
 
 - 🗂️ Prompt engineering walkthroughs
 - 📬 Email & JSON structured output generation
