@@ -23,7 +23,7 @@ Whether you're just starting to explore GenAI for engineering workflows or you'r
 - 📝 **LLM Prompting Examples**  
   Demonstrates prompt engineering for structured generation tasks like email writing, JSON outputs, and feedback summaries.
 
-## ⚙️ Installation
+## ⚙️ Installation (Using VSCode not GitHub Workspace)
 
 Clone the repo and install dependencies to get started:
 
